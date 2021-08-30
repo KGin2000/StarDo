@@ -4,7 +4,7 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -7778626200881295361
-    second: _verworld_0
+    second: Grass
   - first:
       213: -8923035949130850049
     second: _verworld_1
@@ -2914,7 +2914,7 @@ TextureImporter:
     second: _verworld_969
   - first:
       213: 4643231272309264821
-    second: _verworld_970
+    second: PlowableDirt
   - first:
       213: -7450279791378021830
     second: _verworld_971
@@ -3252,8 +3252,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -3274,6 +3274,8 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
@@ -3344,7 +3346,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: _verworld_0
+      name: Grass
       rect:
         serializedVersion: 2
         x: 0
@@ -23714,7 +23716,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: _verworld_970
+      name: PlowableDirt
       rect:
         serializedVersion: 2
         x: 16
