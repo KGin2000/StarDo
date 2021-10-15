@@ -14,4 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tiles:
   - {fileID: 11400000, guid: 7fbbc33eff8044d4fa448384268e00c7, type: 2}
+  - {fileID: 11400000, guid: 09a5742c7ce9d2f40ab4342b74bb84f8, type: 2}
+  - {fileID: 11400000, guid: 6e5daad3c5abdf94d8703b01b827ff17, type: 2}
+  - {fileID: 11400000, guid: 1b4c623f7a310b049abeb244812260b9, type: 2}
+  - {fileID: 11400000, guid: 32889699c23834d4d9c515cf1f1fdb33, type: 2}
+  - {fileID: 11400000, guid: fedf4f7090120914d8284bbca9f81047, type: 2}
+  - {fileID: 11400000, guid: bf78c7a5c4b26c34bb6832bb15083886, type: 2}
+  - {fileID: 11400000, guid: 72fe0824281e9f147aee764dc09a1bf4, type: 2}
+  - {fileID: 11400000, guid: e0a293f7df470a14e9749de7e82a5bb9, type: 2}
   plowable: 0
